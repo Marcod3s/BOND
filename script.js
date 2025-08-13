@@ -3,7 +3,7 @@ const common3 = document.querySelector('#common3');
 const inclusion2 =  document.querySelector('#inclusion2');
 const inclusion3 =  document.querySelector('#inclusion3');
 const resources2 = document.querySelector('#resources2')
-const resources3  = document.querySelector('#resources3')
+const resources3 = document.querySelector('#resources3')
 
 function showCommon2Items() {
     document.querySelector('#common2 ul').classList.remove('hidden')
