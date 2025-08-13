@@ -141,7 +141,7 @@ h2{
 #common_container:hover .commonChild{
     display: flex;
     opacity: 1;
-    transform: translateX(400px);
+    transform: translateX(107%);
 }
 
 #inclusion_container{
@@ -151,7 +151,7 @@ h2{
 #inclusion_container:hover .inclusionChild{
     display: flex;
     opacity: 1;
-    transform: translateX(400px);
+    transform: translateX(107%);
 }
 
 #resource_container{
@@ -163,7 +163,7 @@ h2{
     display: flex;
     
     opacity: 1;
-    transform: translateX(400px);
+    transform: translateX(107%);
 }
 
 /* .info3{
